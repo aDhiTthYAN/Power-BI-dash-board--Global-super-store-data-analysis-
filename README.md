@@ -1,10 +1,9 @@
 # PowerBI Mini Project
 
-# Power BI Sales and Operations Dashboard
 
 ## Introduction
 
-- This Power BI dashboard offers a comprehensive analysis of sales, profits, shipping costs, returns, and other key metrics for a business. It provides insights into various aspects of business operations, including product performance, market analysis, and regional performance. You can check the below link for my presentation
+- This Power BI dashboard offers a comprehensive analysis of GLOBAL SUPER STORE data's --> sales, profits, shipping costs, returns, and other key metrics for a business. It provides insights into various aspects of business operations, including product performance, market analysis, and regional performance. You can check the below link for my presentation
 - LINK : https://drive.google.com/drive/folders/1DNrS531spe2Hn1J0a190WOOd_5t4RXSY?usp=drive_link
 
 
